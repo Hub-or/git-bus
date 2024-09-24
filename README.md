@@ -67,7 +67,7 @@ Git管理文件需要仓储文件，git add作用.git文件夹文件，标记.gi
 单击回车，连续单击三次回车。  
 执行cd ~/.ssh/，执行cat id_ed25519.pub，复制SSH Key和空格左侧部分公钥文本。  
 2.上传公钥至网站页面个人公钥选项。  
-[左键单击新建GitHub标签页面](https://github.com/)单击右上角头像，单击Settings，单击SSH and GPG keys，单击New SSH key。  
+[右键单击之后单击在新标签页中打开链接新建GitHub标签页面](https://github.com/)单击右上角头像，单击Settings，单击SSH and GPG keys，单击New SSH key。  
   
   
 互联练习：  
